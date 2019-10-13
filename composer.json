@@ -1,5 +1,5 @@
 {
-    "name": "laravel-enso/tables",
+    "name": "walterjrp/tables",
     "description": "Data Table library with server-side processing and a VueJS component",
     "keywords": [
         "laravel-enso",
